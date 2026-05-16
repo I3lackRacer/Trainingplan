@@ -158,5 +158,109 @@
       {"value": "cable_crunch", "weight": 25, "sets": 3, "reps": 12},
       {"value": "torso_rotation", "weight": 20, "sets": 3, "reps": 12}
     ]
+  },
+    {
+    "id": 14,
+    "name": "Home Full Body No Equipment",
+    "description": "Simple full-body workout using only bodyweight.",
+    "stations": [
+      {"value": "Bodyweight Squats", "weight": 0, "sets": 3, "reps": 15},
+      {"value": "Push Ups", "weight": 0, "sets": 3, "reps": 10},
+      {"value": "Glute Bridge", "weight": 0, "sets": 3, "reps": 15},
+      {"value": "Walking Lunges", "weight": 0, "sets": 3, "reps": 12},
+      {"value": "Plank", "weight": 0, "sets": 3, "reps": 45},
+      {"value": "Superman Hold", "weight": 0, "sets": 3, "reps": 30}
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Home Upper Body No Equipment",
+    "description": "Chest, shoulders, triceps and core without equipment.",
+    "stations": [
+      {"value": "Push Ups", "weight": 0, "sets": 3, "reps": 10},
+      {"value": "Pike Push Ups", "weight": 0, "sets": 3, "reps": 8},
+      {"value": "Diamond Push Ups", "weight": 0, "sets": 3, "reps": 8},
+      {"value": "Plank Shoulder Taps", "weight": 0, "sets": 3, "reps": 20},
+      {"value": "Chair Tricep Dips", "weight": 0, "sets": 3, "reps": 10},
+      {"value": "Mountain Climbers", "weight": 0, "sets": 3, "reps": 30}
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Home Lower Body No Equipment",
+    "description": "Legs and glutes using only bodyweight.",
+    "stations": [
+      {"value": "Bodyweight Squats", "weight": 0, "sets": 4, "reps": 15},
+      {"value": "Reverse Lunges", "weight": 0, "sets": 3, "reps": 12},
+      {"value": "Glute Bridge", "weight": 0, "sets": 3, "reps": 15},
+      {"value": "Single Leg Glute Bridge", "weight": 0, "sets": 3, "reps": 10},
+      {"value": "Calf Raises", "weight": 0, "sets": 3, "reps": 20},
+      {"value": "Wall Sit", "weight": 0, "sets": 3, "reps": 45}
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Home Core No Equipment",
+    "description": "Abs, obliques and lower back without equipment.",
+    "stations": [
+      {"value": "Plank", "weight": 0, "sets": 3, "reps": 45},
+      {"value": "Left Side Plank", "weight": 0, "sets": 3, "reps": 30},
+      {"value": "Right Side Plank", "weight": 0, "sets": 3, "reps": 30},
+      {"value": "Dead Bug", "weight": 0, "sets": 3, "reps": 12},
+      {"value": "Bicycle Crunches", "weight": 0, "sets": 3, "reps": 20},
+      {"value": "Superman Hold", "weight": 0, "sets": 3, "reps": 30}
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Home Full Body Dumbbells",
+    "description": "Full-body home workout using only dumbbells.",
+    "stations": [
+      {"value": "Dumbbell Goblet Squat", "weight": 12, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Floor Press", "weight": 12, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Bent Over Row", "weight": 12, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Romanian Deadlift", "weight": 14, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Shoulder Press", "weight": 10, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Bicep Curls", "weight": 8, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Home Push Dumbbells",
+    "description": "Chest, shoulders and triceps with dumbbells.",
+    "stations": [
+      {"value": "Dumbbell Floor Press", "weight": 12, "sets": 3, "reps": 10},
+      {"value": "Push Ups", "weight": 0, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Shoulder Press", "weight": 10, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Lateral Raise", "weight": 5, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Overhead Tricep Extension", "weight": 8, "sets": 3, "reps": 12},
+      {"value": "Chair Tricep Dips", "weight": 0, "sets": 3, "reps": 10}
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Home Pull Dumbbells",
+    "description": "Back, rear shoulders and biceps with dumbbells.",
+    "stations": [
+      {"value": "Dumbbell Bent Over Row", "weight": 12, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Single Arm Row", "weight": 14, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Reverse Fly", "weight": 5, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Pullover", "weight": 10, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Bicep Curls", "weight": 8, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Hammer Curls", "weight": 8, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Home Legs Dumbbells",
+    "description": "Legs and glutes with dumbbells.",
+    "stations": [
+      {"value": "Dumbbell Goblet Squat", "weight": 14, "sets": 4, "reps": 10},
+      {"value": "Dumbbell Reverse Lunges", "weight": 10, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Romanian Deadlift", "weight": 14, "sets": 3, "reps": 12},
+      {"value": "Dumbbell Step Ups", "weight": 8, "sets": 3, "reps": 10},
+      {"value": "Dumbbell Glute Bridge", "weight": 16, "sets": 3, "reps": 12},
+      {"value": "Standing Calf Raises", "weight": 10, "sets": 3, "reps": 20}
+    ]
   }
 ]
