@@ -1,0 +1,162 @@
+[
+  {
+    "id": "full_body_beginner",
+    "name": "Full Body Beginner",
+    "description": "Balanced introduction for all major muscle groups.",
+    "stations": [
+      {"value": "leg_press", "weight": 60, "sets": 3, "reps": 12},
+      {"value": "chest_press", "weight": 30, "sets": 3, "reps": 12},
+      {"value": "seated_row", "weight": 35, "sets": 3, "reps": 12},
+      {"value": "shoulder_press", "weight": 20, "sets": 3, "reps": 12},
+      {"value": "ab_machine", "weight": 20, "sets": 3, "reps": 15},
+      {"value": "back_extension", "weight": 20, "sets": 3, "reps": 15}
+    ]
+  },
+  {
+    "id": "full_body_intermediate",
+    "name": "Full Body Intermediate",
+    "description": "Heavier full-body session with free weights and machines.",
+    "stations": [
+      {"value": "squats", "weight": 40, "sets": 3, "reps": 10},
+      {"value": "bench_press", "weight": 40, "sets": 3, "reps": 10},
+      {"value": "bent_over_row", "weight": 35, "sets": 3, "reps": 10},
+      {"value": "shoulder_press", "weight": 25, "sets": 3, "reps": 10},
+      {"value": "leg_curl", "weight": 30, "sets": 3, "reps": 12},
+      {"value": "lat_pulldown", "weight": 45, "sets": 3, "reps": 10},
+      {"value": "ab_machine", "weight": 25, "sets": 3, "reps": 15}
+    ]
+  },
+  {
+    "id": "quick_session",
+    "name": "Quick Session",
+    "description": "Four exercises when you are short on time.",
+    "stations": [
+      {"value": "leg_press", "weight": 65, "sets": 3, "reps": 12},
+      {"value": "chest_press", "weight": 35, "sets": 3, "reps": 12},
+      {"value": "lat_pulldown", "weight": 40, "sets": 3, "reps": 12},
+      {"value": "ab_machine", "weight": 22.5, "sets": 3, "reps": 15}
+    ]
+  },
+  {
+    "id": "push_day",
+    "name": "Push Day",
+    "description": "Chest, shoulders and triceps.",
+    "stations": [
+      {"value": "chest_press", "weight": 35, "sets": 3, "reps": 10},
+      {"value": "incline_bench_press", "weight": 25, "sets": 3, "reps": 10},
+      {"value": "shoulder_press", "weight": 22.5, "sets": 3, "reps": 10},
+      {"value": "lateral_raise", "weight": 7.5, "sets": 3, "reps": 12},
+      {"value": "tricep_pushdown", "weight": 20, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": "pull_day",
+    "name": "Pull Day",
+    "description": "Back and biceps.",
+    "stations": [
+      {"value": "lat_pulldown", "weight": 40, "sets": 3, "reps": 10},
+      {"value": "seated_row", "weight": 35, "sets": 3, "reps": 10},
+      {"value": "reverse_fly", "weight": 15, "sets": 3, "reps": 12},
+      {"value": "back_extension", "weight": 20, "sets": 3, "reps": 15},
+      {"value": "bicep_curls", "weight": 12.5, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": "upper_body",
+    "name": "Upper Body",
+    "description": "Chest, back and shoulders in one gym session.",
+    "stations": [
+      {"value": "chest_press", "weight": 35, "sets": 3, "reps": 10},
+      {"value": "lat_pulldown", "weight": 42.5, "sets": 3, "reps": 10},
+      {"value": "shoulder_press", "weight": 22.5, "sets": 3, "reps": 10},
+      {"value": "seated_row", "weight": 35, "sets": 3, "reps": 10},
+      {"value": "butterfly", "weight": 25, "sets": 3, "reps": 12},
+      {"value": "tricep_pushdown", "weight": 20, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": "chest_and_back",
+    "name": "Chest and Back",
+    "description": "Antagonist pairing for upper-body volume.",
+    "stations": [
+      {"value": "bench_press", "weight": 45, "sets": 3, "reps": 10},
+      {"value": "incline_bench_press", "weight": 30, "sets": 3, "reps": 10},
+      {"value": "lat_pulldown", "weight": 45, "sets": 3, "reps": 10},
+      {"value": "seated_row", "weight": 37.5, "sets": 3, "reps": 10},
+      {"value": "pull_over", "weight": 30, "sets": 3, "reps": 12},
+      {"value": "butterfly", "weight": 25, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": "shoulder_focus",
+    "name": "Shoulder Focus",
+    "description": "All three deltoid heads plus rear shoulders.",
+    "stations": [
+      {"value": "shoulder_press", "weight": 25, "sets": 3, "reps": 10},
+      {"value": "dumbbell_shoulder_press", "weight": 14, "sets": 3, "reps": 10},
+      {"value": "lateral_raise", "weight": 8, "sets": 3, "reps": 12},
+      {"value": "front_raise", "weight": 7.5, "sets": 3, "reps": 12},
+      {"value": "reverse_fly", "weight": 15, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": "arms_day",
+    "name": "Arms Day",
+    "description": "Biceps and triceps isolation work.",
+    "stations": [
+      {"value": "bicep_curls", "weight": 14, "sets": 3, "reps": 12},
+      {"value": "hammer_curls", "weight": 12, "sets": 3, "reps": 12},
+      {"value": "bicep_machine", "weight": 25, "sets": 3, "reps": 12},
+      {"value": "tricep_pushdown", "weight": 22.5, "sets": 3, "reps": 12},
+      {"value": "tricep_kickbacks", "weight": 8, "sets": 3, "reps": 12}
+    ]
+  },
+  {
+    "id": "leg_day",
+    "name": "Leg Day",
+    "description": "Quads, hamstrings, glutes and calves.",
+    "stations": [
+      {"value": "leg_press", "weight": 70, "sets": 3, "reps": 10},
+      {"value": "leg_extension", "weight": 30, "sets": 3, "reps": 12},
+      {"value": "leg_curl", "weight": 30, "sets": 3, "reps": 12},
+      {"value": "hip_thrust", "weight": 40, "sets": 3, "reps": 10},
+      {"value": "calf_raise", "weight": 40, "sets": 3, "reps": 15}
+    ]
+  },
+  {
+    "id": "lower_body_beginner",
+    "name": "Lower Body Beginner",
+    "description": "Gentle machine-based leg introduction.",
+    "stations": [
+      {"value": "leg_press", "weight": 50, "sets": 3, "reps": 12},
+      {"value": "leg_extension", "weight": 25, "sets": 3, "reps": 12},
+      {"value": "leg_curl", "weight": 25, "sets": 3, "reps": 12},
+      {"value": "calf_raise", "weight": 30, "sets": 3, "reps": 15},
+      {"value": "adductor_abductor_machine", "weight": 35, "sets": 3, "reps": 15}
+    ]
+  },
+  {
+    "id": "free_weights_strength",
+    "name": "Free Weights Strength",
+    "description": "Compound lifts with lower reps for strength.",
+    "stations": [
+      {"value": "squats", "weight": 50, "sets": 4, "reps": 8},
+      {"value": "deadlift", "weight": 60, "sets": 4, "reps": 6},
+      {"value": "bench_press", "weight": 50, "sets": 4, "reps": 8},
+      {"value": "bent_over_row", "weight": 40, "sets": 4, "reps": 8},
+      {"value": "lunges", "weight": 16, "sets": 3, "reps": 10},
+      {"value": "overhead_tricep_press", "weight": 20, "sets": 3, "reps": 10}
+    ]
+  },
+  {
+    "id": "core_and_lower_back",
+    "name": "Core and Lower Back",
+    "description": "Abs, obliques and lower back.",
+    "stations": [
+      {"value": "ab_machine", "weight": 25, "sets": 3, "reps": 15},
+      {"value": "back_extension", "weight": 20, "sets": 3, "reps": 15},
+      {"value": "cable_crunch", "weight": 25, "sets": 3, "reps": 12},
+      {"value": "torso_rotation", "weight": 20, "sets": 3, "reps": 12}
+    ]
+  }
+]
