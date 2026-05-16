@@ -159,8 +159,8 @@
       {"value": "torso_rotation", "weight": 20, "sets": 3, "reps": 12}
     ]
   },
-    {
-    "id": 14,
+  {
+    "id": "home_full_body_no_equipment",
     "name": "Home Full Body No Equipment",
     "description": "Simple full-body workout using only bodyweight.",
     "stations": [
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": "home_upper_body_no_equipment",
     "name": "Home Upper Body No Equipment",
     "description": "Chest, shoulders, triceps and core without equipment.",
     "stations": [
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": "home_lower_body_no_equipment",
     "name": "Home Lower Body No Equipment",
     "description": "Legs and glutes using only bodyweight.",
     "stations": [
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": "home_core_no_equipment",
     "name": "Home Core No Equipment",
     "description": "Abs, obliques and lower back without equipment.",
     "stations": [
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": "home_full_body_dumbbells",
     "name": "Home Full Body Dumbbells",
     "description": "Full-body home workout using only dumbbells.",
     "stations": [
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": "home_push_dumbbells",
     "name": "Home Push Dumbbells",
     "description": "Chest, shoulders and triceps with dumbbells.",
     "stations": [
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": "home_pull_dumbbells",
     "name": "Home Pull Dumbbells",
     "description": "Back, rear shoulders and biceps with dumbbells.",
     "stations": [
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": "home_legs_dumbbells",
     "name": "Home Legs Dumbbells",
     "description": "Legs and glutes with dumbbells.",
     "stations": [
